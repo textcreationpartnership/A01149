@@ -32,7 +32,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The copie of the French Kings priuie Councells Sentence: geuen at Moulyns in Bourbonnois betwene the
+
 #####Body#####
 
 1. The copie of the Kinges priuie Counſailes Sentence geuen at Moulyns in Bourbonnois betwene the Lordes of Guyſe and the Lord Admirall of Fraunce, the 29. of Ianuarye, 1566. tranſlated out of Frenche into Eng•yſhe, by Iohn de Hennot Normand at the requeſt of certaine gentlemen.
@@ -69,32 +69,28 @@ There are 1 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|7||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|7||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -102,18 +98,16 @@ There are 1 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__bibl__|1||
-|2.|__body__|1||
-|3.|__closer__|1||
-|4.|__desc__|1||
-|5.|__div__|2| @__type__ (2) : title_page (1), text (1)|
-|6.|__epigraph__|1||
-|7.|__front__|1||
-|8.|__g__|36| @__ref__ (36) : char:EOLhyphen (31), char:EOLunhyphen (3), char:cmbAbbrStroke (2)|
-|9.|__gap__|1| @__reason__ (1) : illegible (1)  •  @__resp__ (1) : #PDCC (1)  •  @__extent__ (1) : 1 letter (1)|
-|10.|__head__|1||
-|11.|__hi__|14| @__rend__ (4) : sup (4)|
-|12.|__p__|6||
-|13.|__pb__|8| @__facs__ (8) : tcp:13154:1 (2), tcp:13154:2 (2), tcp:13154:3 (2), tcp:13154:4 (2)  •  @__rendition__ (1) : simple:additions (1)|
-|14.|__q__|1||
-|15.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|16.|__signed__|1||
+|2.|__closer__|1||
+|3.|__desc__|1||
+|4.|__div__|2| @__type__ (2) : title_page (1), text (1)|
+|5.|__epigraph__|1||
+|6.|__g__|36| @__ref__ (36) : char:EOLhyphen (31), char:EOLunhyphen (3), char:cmbAbbrStroke (2)|
+|7.|__gap__|1| @__reason__ (1) : illegible (1)  •  @__resp__ (1) : #PDCC (1)  •  @__extent__ (1) : 1 letter (1)|
+|8.|__head__|1||
+|9.|__hi__|14| @__rend__ (4) : sup (4)|
+|10.|__p__|6||
+|11.|__pb__|8| @__facs__ (8) : tcp:13154:1 (2), tcp:13154:2 (2), tcp:13154:3 (2), tcp:13154:4 (2)  •  @__rendition__ (1) : simple:additions (1)|
+|12.|__q__|1||
+|13.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|14.|__signed__|1||
